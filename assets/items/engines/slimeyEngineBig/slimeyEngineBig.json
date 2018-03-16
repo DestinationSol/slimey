@@ -1,6 +1,3 @@
 {
-    "big": true,
-    "workSounds": [
-        "slimey:engineSplat"
-    ]
+    "big": true
 }

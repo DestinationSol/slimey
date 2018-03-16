@@ -204,7 +204,10 @@
                 "size": 0.3,
                 "tex": "slimey:slime",
                 "tint": "hsb 140 20 65"
-            }
+            },
+            "workSounds": [
+                "slimey:engineSplat"
+            ]
         },
         {
             "position": "0.3 0.7",
@@ -215,7 +218,10 @@
                 "size": 0.3,
                 "tex": "slimey:slime",
                 "tint": "hsb 140 20 65"
-            }
+            },
+            "workSounds": [
+                "slimey:engineSplat"
+            ]
         }
     ]
 }
