@@ -2,7 +2,7 @@
   "slime": {
     "dmg": 0.8,
     "dmgType": "bullet",
-    "spdLen": 2,
+    "speed": 2,
     "tex": "slimey:slime",
     "texSz": 0.12,
     "collisionEffect": {
@@ -16,7 +16,7 @@
   "slimeBetter": {
     "dmg": 2,
     "dmgType": "bullet",
-    "spdLen": 8,
+    "speed": 8,
     "tex": "slimey:slime",
     "texSz": 0.12,
     "collisionEffect": {
